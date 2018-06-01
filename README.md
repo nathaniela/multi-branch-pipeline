@@ -1,4 +1,4 @@
-#Multi Branch Pipeline (Gitflow)
+# Multi Branch Pipeline (Gitflow)
 
 This project aims to create a pipeline which supports the [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) design.  
 We want our pipeline to support _production_, _development_, _release_, _feature_ and _hotfix_ branches.
